@@ -1,0 +1,11 @@
+:root {
+  --fw-bold: 700;
+  --fw-semibold: 500;
+  --fw-semibold2: 400;
+
+  --clr-primary: hsl(234, 30%, 18%);
+  --clr-secondary: hsl(0, 0%, 88%);
+  --clr-tertiary: hsl(0, 100%, 70%);
+
+  --font-f: "Heebo", sans-serif;
+}
