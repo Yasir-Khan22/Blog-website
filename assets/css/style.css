@@ -15,4 +15,9 @@
   --fs-700: 2.75rem;
   --fs-500: 1.875rem;
   --fs-400: 1.25rem;
+
+  --fs-primary-heading: var(--fs-700);
+  --fs-span: var(--fs-500);
+  --fs-navbar: var(--fs-400);
+  --fs-paragraph: var(--fs-400);
 }
